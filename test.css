@@ -1,15 +1,24 @@
-h1 {
-    color: blue;
+body {
+    background: rgb(214, 214, 191);
 }
 
-p {
-    color: red;
+h1 {
+    color: rgb(117, 116, 110);
+    text-align: center;
+    font-family: 'Trebuchet MS';
+}
+
+div {
+    padding-top: 60px;
+}
+
+h2 {
+    color: rgb(117, 116, 110);
 }
 
 ol {
     color: green;
     font-family: fantasy;
-    background: rgb(216, 194, 216);
 }
 
 img {
